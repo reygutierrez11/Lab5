@@ -1,5 +1,6 @@
 .key
 {
+    color: white;
     width: 100%;
     height: 300px;
 }
@@ -9,4 +10,20 @@
     background-image: url(BGround.jpg);
     background-position: center;
     background-size: cover;
+}
+
+.MainTitle
+{
+    text-align: center;
+    color:#f5fffa;
+    font-family: 'Centruy Gothic', Century Gothic;
+}
+
+.table,th,td
+{
+    border:4px background;
+    border-collapse: collapse;
+    font-family: 'Futura',Futura;
+    padding: 10px;
+    font-size: 18px;
 }
