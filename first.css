@@ -1,0 +1,12 @@
+.key
+{
+    width: 100%;
+    height: 300px;
+}
+
+.back
+{
+    background-image: url(BGround.jpg);
+    background-position: center;
+    background-size: cover;
+}
